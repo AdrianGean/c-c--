@@ -7,3 +7,4 @@ int main() // corpo principal né
     
     system("pause");
 }
+
